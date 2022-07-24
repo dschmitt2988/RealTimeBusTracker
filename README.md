@@ -1,11 +1,15 @@
-# RealTimeBusTracker
-Coding Assignment dealing with HTML, JavaScript, and CSS languages, also using Mapbox library for mapping purposes
+# Real Time Bus Tracker
 
-Title of Project: Real Time Bus Tracker
-Description of Project: Coding assignment dealing with HTML, JavaScript, and CSS languages that also used API and Mapbox library to help create a visual marker on the map at each of the campus bus stops between MIT and Harvard.  We were required to create a Mapbox account and get an access token, then add that access token into the JavaScript file.  Then created a marker and added it to the map using prebuilt functions.  Then we created a function called move() that allows the marker to become animated and move from stop to stop after a given set of time.
+Project Title: Real Time Bus Tracker
 
-How to Run:  This project is not hosted by a web server, but you can run the project using the browser window of the local machine.
+Description: A coding assignment dealing with HTML, JavaScript, and CSS languages, while also using Mapbox library for mapping purposes. I used a map of the campuses of MIT and Harvard and adding in an animated marker on the map to highlight the bus route by using the MTBA bus data to determine exactly where the stops occur.  To complete this tracker we had use access tokens from Mapbox to render maps on the webpage, and then create a marker using the pre-built Mapbox global functions.  This task had the learning outcomes of rendering a map on a webpage and learning different ways to manipulate the map.  
 
-Roadmap to Future Improvement: I would like to be able to get information on bus stop times, and other markers to add in an actual animated bus and its real time location compared to the stops.  This would allow for an estimated arrival time at each bus stop as well.
+How to Run: To run the Real Time Bus Tracker on your machine you must first download the index.html, mapanimation.js, and styles.css files onto the same folder on your local machine.  Next, open the index.html file on your machine and push the “Show stops between MIT and Harvard” button to show the location of the bus stops with the marker.  
 
-License Information:  Licensed for educational purposes only under the MIT Coding Bootcamp class.
+Roadmap of Future Improvements: Would like to improve this bus tracker to have a real time bus image at the location of the actual busses.  Also, improving the project to estimate times that the bus will get to each stop would be more helpful. 
+
+License Information: For educational purposes only.  Project used in the MIT Coding Bootcamp Summer ’22.  
+![image](https://user-images.githubusercontent.com/105122380/180632350-43bc635f-1bd9-45be-9ed3-3d4b2a2a5621.png)
+
+
+
