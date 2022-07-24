@@ -9,7 +9,6 @@ How to Run: To run the Real Time Bus Tracker on your machine you must first down
 Roadmap of Future Improvements: Would like to improve this bus tracker to have a real time bus image at the location of the actual busses.  Also, improving the project to estimate times that the bus will get to each stop would be more helpful. 
 
 License Information: For educational purposes only.  Project used in the MIT Coding Bootcamp Summer ’22.  
-![image](https://user-images.githubusercontent.com/105122380/180632350-43bc635f-1bd9-45be-9ed3-3d4b2a2a5621.png)
 
 
 
